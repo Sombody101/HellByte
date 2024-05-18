@@ -1,0 +1,20 @@
+nop     ; nop: No-Operation (do nothing)
+nop
+nop
+nop
+break   ; Does literally nothing
+ldarg   ; none of this even does anything lol
+ldnull
+ldnull  ; null isnt even defined yet
+
+ldarg obj
+ldarg obj2
+mult
+
+ldstr "Hello, World"
+
+add
+
+ret
+
+ldstr "skfjhasdkj"
